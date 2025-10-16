@@ -56,3 +56,6 @@ dkms.conf
 
 #visual code configuration
 .vscode
+
+#text files
+*.txt
